@@ -2,7 +2,7 @@
 <html lang="es">
 <head>
     <meta charset="UTF-8">
-    <title>Calculadora Suma y Resta</title>
+    <title>Mini Calculadora Suma y Resta</title>
     <link rel="stylesheet" href="css/estilos.css">
 </head>
 <body>
